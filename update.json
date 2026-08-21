@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "packageName": "lat.appcbl.kaizzen",
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "tag": "v0.1.2",
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "tag": "v0.1.3",
   "minSupportedVersionCode": 0,
   "rolloutPercent": 100,
-  "notesEs": "Microfono, subida de archivos, encabezado nuevo y mejoras de velocidad",
+  "notesEs": "First version",
   "artifacts": {
     "arm64-v8a": {
-      "file": "kaizzen-0.1.2-arm64-v8a.apk",
+      "file": "kaizzen-0.1.3-arm64-v8a.apk",
       "size": 202075160,
-      "sha256": "f3fb21e453f8a83e97068c0c136eb17518ead705ce7d1bcaa25ac897ed848730",
+      "sha256": "32d31b9e5174a79395262a012eb19bae87f7895ef17b2a69fcc05688d533a40f",
       "minSdk": 26
     },
     "armeabi-v7a": {
-      "file": "kaizzen-0.1.2-armeabi-v7a.apk",
+      "file": "kaizzen-0.1.3-armeabi-v7a.apk",
       "size": 163685346,
-      "sha256": "17c6cb0ec2c2ec2dc2beec40e7b591930cac44f95f1f0f9bb2b426a731755f38",
+      "sha256": "87b430e0c487564bc7d2957148489bcfbaa77c674604e0472859b0d08f51c583",
       "minSdk": 26
     }
   }
