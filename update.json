@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "packageName": "lat.appcbl.kaizzen",
-  "versionCode": 16,
-  "versionName": "0.1.15",
-  "tag": "v0.1.15",
+  "versionCode": 17,
+  "versionName": "0.1.16",
+  "tag": "v0.1.16",
   "minSupportedVersionCode": 0,
   "rolloutPercent": 100,
-  "notesEs": "L\u00edmite de tiempo por herramienta: cada herramienta puede tener un tiempo de uso por d\u00eda, semana o mes, con un reloj que muestra el tiempo restante. Al agotarse, la herramienta se cierra hasta el siguiente periodo.",
+  "notesEs": "Mejoras del l\u00edmite de tiempo por herramienta: el tiempo se cuenta solo mientras usas la herramienta y se bloquea correctamente al agotarse.",
   "artifacts": {
     "arm64-v8a": {
-      "file": "kaizzen-0.1.15-arm64-v8a.apk",
-      "size": 210609500,
-      "sha256": "1d24f486c45c49ddad62a3287dc35caf42120f4ebef488cbb078c1643ba70c7f",
+      "file": "kaizzen-0.1.16-arm64-v8a.apk",
+      "size": 210615220,
+      "sha256": "ce55874bd54ca88381f640d91532c0dd7eecc79fe07ca6d10c6d9a3ddb470953",
       "minSdk": 26
     },
     "armeabi-v7a": {
-      "file": "kaizzen-0.1.15-armeabi-v7a.apk",
-      "size": 172219686,
-      "sha256": "69fd1dba77160ad58c5bfee7c054d660721d84df99676451755a74e7f257ad33",
+      "file": "kaizzen-0.1.16-armeabi-v7a.apk",
+      "size": 172225406,
+      "sha256": "c11c75f79cbd65fcd97b824edf30e85118f2ede4d3b9d76e82276eaf9f156727",
       "minSdk": 26
     }
   }
